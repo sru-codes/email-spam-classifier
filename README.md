@@ -1,6 +1,7 @@
 # Email Spam Classifier (Minor Project)
 
-**Author:** Srustisri Panda  
+**Authors:** Srustisri Panda, Puja Rani Mishra, Kajal Roul  
+**Project Type:** Group Project  
 **Topic:** Classification Projects  
 **Project ID:** Minor Project #13 (from AI/ML Project List)
 
